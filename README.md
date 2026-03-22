@@ -1,4 +1,4 @@
-![Liu6027's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liu6027)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+World;欢迎来到我的GitHub;自定义你喜欢的文字&font=Fira+Code&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+profile!&center=true&vCenter=true&size=30)
 <p align="center">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=STA+Laboratory;Exploring+Intelligence;Building+Systems;Creating+Impact" alt="Typing SVG" /></p>
 <p align="center">
   <img src="你的Banner图片链接" alt="STA Laboratory Banner" />
