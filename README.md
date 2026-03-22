@@ -1,5 +1,5 @@
 <p align="center">  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=STA+Laboratory;Exploring+Intelligence;Building+Systems;Creating+Impact" alt="Typing SVG" /></p>
-<p align="center">  <img src="./assets/sta-banner.jpg" alt="STA Laboratory Banner" width="100%" /></p>
+<p align="center">  <img src="img_v3_02sn_eddb55ce-fe0e-46f1-b688-175eb99df87g.jpg" alt="STA Laboratory Banner" width="100%" /></p>
 
 <h1 align="center">STA Laboratory</h1>
 
