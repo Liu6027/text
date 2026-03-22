@@ -1,4 +1,59 @@
 <p align="center">
+  <img src="./assets/sta-banner.jpg" alt="STA Laboratory Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=900&color=00F0FF&center=true&vCenter=true&width=1200&lines=STA+Laboratory;SYSTEM+ONLINE;Exploring+Intelligence;Building+Systems;Creating+Impact;Research+%C3%97+Technology+%C3%97+Innovation;Future+Starts+Here" alt="Typing SVG" />
+</p>
+
+<h1 align="center">STA Laboratory</h1>
+
+<p align="center">
+  <strong>Exploring intelligence. Building systems. Creating impact.</strong>
+</p>
+
+<p align="center">
+  在 STA 实验室，我们把 <strong>好奇心</strong> 变成探索，把 <strong>研究</strong> 变成系统，<br/>
+  把 <strong>技术</strong> 变成真实可落地的成果，把 <strong>想法</strong> 变成未来。
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00E5FF&center=true&vCenter=true&width=980&lines=STA+Laboratory;Exploring+Intelligence;Building+Systems;Creating+Impact;Research+x+Technology+x+Innovation" alt="Typing SVG" />
 
