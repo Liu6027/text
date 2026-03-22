@@ -1,7 +1,3 @@
-<img width="1621" height="430" alt="image" src="https://github.com/user-attachments/assets/4fe89dcc-31bd-4447-874f-30e38a1d0a9e" /><p align="center">
-  <img src="img_v3_02sn_eddb55ce-fe0e-46f1-b688-175eb99df87g.jpg" alt="STA实验室横幅" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=900&color=00F0FF&center=true&vCenter=true&width=1200&lines=STA+Laboratory;SYSTEM+ONLINE;Exploring+Intelligence;Building+Systems;Creating+Impact;Research+%C3%97+Technology+%C3%97+Innovation;Future+Starts+Here" alt="Typing SVG" />
 </p>
