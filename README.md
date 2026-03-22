@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=900&color=00F0FF&center=true&vCenter=true&width=1200&lines=STA+Laboratory;系统已启动;探索智能;构建系统;创造影响力;研究+%C3%97+技术+%C3%97+创新;未来从这里开始" alt="动态标题" />
+font=Orbitron&size=44&pause=900&color=00F0FF&center=true&vCenter=true&width=1200&lines=STA+Laboratory;SYSTEM+ONLINE;Exploring+Intelligence;Building+Systems;Creating+Impact;Research+%C3%97+Technology+%C3%97+Innovation;Future+Starts+Here" alt="Typing SVG" />
 </p>
 
 <h1 align="center">STA 实验室</h1>
