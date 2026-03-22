@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sta-banner.jpg" alt="STA实验室横幅" width="100%" />
+  <img src="img_v3_02sn_eddb55ce-fe0e-46f1-b688-175eb99df87g.jpg" alt="STA实验室横幅" width="100%" />
 </p>
 
 <p align="center">
