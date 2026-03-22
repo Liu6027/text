@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/sta-banner.jpg" alt="STA Laboratory Banner" width="100%" />
+  <img src="./assets/sta-banner.jpg" alt="STA实验室横幅" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=900&color=00F0FF&center=true&vCenter=true&width=1200&lines=STA+Laboratory;SYSTEM+ONLINE;Exploring+Intelligence;Building+Systems;Creating+Impact;Research+%C3%97+Technology+%C3%97+Innovation;Future+Starts+Here" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=900&color=00F0FF&center=true&vCenter=true&width=1200&lines=STA+Laboratory;系统已启动;探索智能;构建系统;创造影响力;研究+%C3%97+技术+%C3%97+创新;未来从这里开始" alt="动态标题" />
 </p>
 
-<h1 align="center">STA Laboratory</h1>
+<h1 align="center">STA 实验室</h1>
 
 <p align="center">
-  <strong>Exploring intelligence. Building systems. Creating impact.</strong>
+  <strong>探索智能，构建系统，创造影响力。</strong>
 </p>
 
 <p align="center">
@@ -18,176 +18,133 @@
 </p>
 
 <p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=Liu6027&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-00C2FF?style=for-the-badge" alt="Status" />
-
-  <img src="https://img.shields.io/badge/Research-AI%20%7C%20Systems%20%7C%20Data-black?style=for-the-badge" alt="Research" />
-
-  <img src="https://img.shields.io/badge/Culture-Open%20%26%20Collaborative-success?style=for-the-badge" alt="Culture" />
-
-  <img src="https://img.shields.io/badge/Mission-Impact%20Driven-orange?style=for-the-badge" alt="Mission" />
-
+  <img src="https://komarev.com/ghpvc/?username=Liu6027&label=访问量&color=0e75b6&style=for-the-badge" alt="访问量" />
+  <img src="https://img.shields.io/badge/状态-持续构建中-00C2FF?style=for-the-badge" alt="状态" />
+  <img src="https://img.shields.io/badge/研究方向-AI%20%7C%20系统%20%7C%20数据-black?style=for-the-badge" alt="研究方向" />
+  <img src="https://img.shields.io/badge/文化-开放协作-success?style=for-the-badge" alt="文化" />
+  <img src="https://img.shields.io/badge/使命-影响力驱动-orange?style=for-the-badge" alt="使命" />
 </p>
 
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Focus-Intelligent%20Systems-0A66C2?style=flat-square" />
-
-  <img src="https://img.shields.io/badge/Workflow-Build%20%E2%86%92%20Test%20%E2%86%92%20Improve-222222?style=flat-square" />
-
-  <img src="https://img.shields.io/badge/Collaboration-Welcome-2EA44F?style=flat-square" />
-
-  <img src="https://img.shields.io/badge/Innovation-Research%20to%20Reality-9B59B6?style=flat-square" />
-
+  <img src="https://img.shields.io/badge/聚焦方向-智能系统-0A66C2?style=flat-square" alt="聚焦方向" />
+  <img src="https://img.shields.io/badge/工作流-构建%20%E2%86%92%20测试%20%E2%86%92%20优化-222222?style=flat-square" alt="工作流" />
+  <img src="https://img.shields.io/badge/协作-欢迎加入-2EA44F?style=flat-square" alt="协作" />
+  <img src="https://img.shields.io/badge/创新-从研究走向现实-9B59B6?style=flat-square" alt="创新" />
 </p>
 
 ---
 
-## 🔬 About STA Laboratory
+## 🔬 关于 STA 实验室
 
-STA实验室是一个面向未来的科研与创新空间，聚焦于智能技术、数据分析、系统开发与交叉学科应用。  
+STA 实验室是一个面向未来的科研与创新空间，聚焦于智能技术、数据分析、系统开发与交叉学科应用。
 
 我们鼓励成员在探索中提出问题，在实践中验证想法，在协作中创造成果。
 
-在这里，研究不只是停留在理论，技术也不只是停留在代码。  
+在这里，研究不只是停留在理论，技术也不只是停留在代码。
 
 我们更希望把二者结合起来，形成真正能够落地、能够被使用、能够产生影响的项目与成果。
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 技术栈
 
 <p align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,docker,linux,git,opencv,matlab,vscode,github&perline=6" alt="Tech Stack" />
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,docker,linux,git,opencv,matlab,vscode,github&perline=6" alt="技术栈" />
 </p>
 
 ---
 
-## 🚀 What We Build
+## 🚀 我们构建的内容
 
-- Intelligent systems and smart applications
-
-- Data-driven tools and analytical platforms
-
-- Experimental prototypes and technical solutions
-
-- Interdisciplinary research projects with real-world value
+- 智能系统与智能化应用
+- 数据驱动的工具与分析平台
+- 实验性原型与技术解决方案
+- 面向真实场景的跨学科创新项目
 
 ---
 
-## 🌌 Our Culture
+## 🌌 我们的文化
 
-- Curiosity first
-
-- Collaboration always
-
-- Research with purpose
-
-- Build, test, improve, repeat
+- 以好奇心为起点
+- 以协作为常态
+- 以研究为目标导向
+- 持续构建、测试、优化、迭代
 
 ---
 
-## 🧠 Research Directions
+## 🧠 研究方向
 
-- Artificial Intelligence / Machine Learning
-
-- Data Science / Visualization
-
-- Software Engineering / Platform Systems
-
-- Human-centered and interdisciplinary innovation
+- 人工智能 / 机器学习
+- 数据科学 / 可视化分析
+- 软件工程 / 平台系统
+- 以人为中心的交叉学科创新
 
 ---
 
-## ✨ Highlights
+## ✨ 实验室亮点
 
-- 面向真实问题的科研探索
-
+- 面向真实问题开展科研探索
 - 强调从创意到原型再到落地的完整过程
-
 - 鼓励跨学科合作与开放交流
-
 - 注重技术能力、研究能力与创新能力共同成长
 
 ---
 
-## 📊 Lab Stats
+## 📊 实验室数据
 
 <p align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liu6027&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liu6027&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Liu6027&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub 统计" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liu6027&layout=compact&theme=tokyonight&hide_border=true" alt="常用语言" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 活动图谱
 
 <p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Liu6027&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Liu6027&theme=tokyo-night&hide_border=true&area=true" alt="活动图谱" />
 </p>
 
 ---
 
-## 🧪 Featured Projects
+## 🧪 代表项目
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=仓库&theme=tokyonight&hide_border=true" alt="Project 1" />
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=仓库&theme=tokyonight&hide_border=true" alt="Project 2" />
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=仓库&theme=tokyonight&hide_border=true" alt="项目1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=仓库&theme=tokyonight&hide_border=true" alt="项目2" />
 </p>
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=仓库名3&theme=tokyonight&hide_border=true" alt="Project 3" />
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=仓库名4&theme=tokyonight&hide_border=true" alt="Project 4" />
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=仓库名3&theme=tokyonight&hide_border=true" alt="项目3" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=仓库名4&theme=tokyonight&hide_border=true" alt="项目4" />
 </p>
 
 ---
 
-## 📡 Connect With Us
+## 📡 联系我们
 
 <p align="center">
-
   <a href="你的官网链接">
-
-    <img src="https://img.shields.io/badge/Website-STA%20Lab-0A66C2?style=for-the-badge" alt="Website" />
-
+    <img src="https://img.shields.io/badge/官网-STA%20实验室-0A66C2?style=for-the-badge" alt="官网" />
   </a>
 
   <a href="你的GitHub链接">
-
-    <img src="https://img.shields.io/badge/GitHub-STA%20Lab-181717?style=for-the-badge&logo=github" alt="GitHub" />
-
+    <img src="https://img.shields.io/badge/GitHub-STA%20实验室-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 
   <a href="你的邮箱或联系方式">
-
-    <img src="https://img.shields.io/badge/Contact-STA%20Lab-2EA44F?style=for-the-badge" alt="Contact" />
-
+    <img src="https://img.shields.io/badge/联系-STA%20实验室-2EA44F?style=for-the-badge" alt="联系" />
   </a>
-
 </p>
 
 ---
 
-## Join Us
+## 加入我们
 
-无论你是对科研充满热情的学生，还是希望共同推动创新项目的合作伙伴，  
+无论你是对科研充满热情的学生，还是希望共同推动创新项目的合作伙伴，
 
-STA实验室都欢迎你加入这场关于探索、创造与成长的旅程。
+STA 实验室都欢迎你加入这场关于探索、创造与成长的旅程。
+
 
 
 
